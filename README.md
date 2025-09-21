@@ -29,4 +29,4 @@ I use technology to solve real-world problems, support digital transformation, a
 ## 🌍 Let’s Connect
 I’m passionate about building inclusive tech solutions, mentoring youth, and blending tradition with innovation. If you're working on something exciting in IT, education, or AI — let's collaborate!
 
-📫 **Reach me on LinkedIn:** [www.linkedin.com/in/godfrey-leshoo-2a8193230](#)
+📫 **Reach me on LinkedIn:** [www.linkedin.com/in/godfrey-leshoo-2a8193230]
