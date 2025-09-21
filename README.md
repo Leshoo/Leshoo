@@ -1,3 +1,4 @@
+![Godfrey's Profile Photo](./1730721063414-removebg-preview.png)
 # 👋 Hi, I'm Godfrey | ICT Specialist & Web Developer
 
 I'm a results-driven ICT professional with a Diploma in Information & Communication Technology and specialized training in Web Development and Artificial Intelligence. 
